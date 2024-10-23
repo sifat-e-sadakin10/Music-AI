@@ -9,9 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@magenta/music": "^1.23.1",
+    "@tensorflow/tfjs": "^4.22.0",
+    "magenta": "^0.0.0",
+    "next": "14.2.16",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.16"
+    "sentiment": "^5.0.2",
+    "tone": "^15.0.4"
   },
   "devDependencies": {
     "postcss": "^8",
